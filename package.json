@@ -1,13 +1,13 @@
 {
-  "name": "babel-plugin-i18next-extract",
+  "name": "babel-plugin-i18next-extract-guiedugt-fork",
   "version": "0.1.0",
-  "description": "Statically extract translation keys from i18next application.",
+  "description": "Statically extract translation keys from i18next application. @guiedugt fork",
   "engines": {
     "node": ">=10.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gilbsgilbs/babel-plugin-i18next-extract.git"
+    "url": "https://github.com/guiedugt/babel-plugin-i18next-extract.git"
   },
   "keywords": [
     "babel-plugin",
@@ -21,9 +21,9 @@
   ],
   "homepage": "https://i18next-extract.netlify.app/",
   "bugs": {
-    "url": "https://github.com/gilbsgilbs/babel-plugin-i18next-extract/issues"
+    "url": "https://github.com/guiedugt/babel-plugin-i18next-extract/issues"
   },
-  "author": "Gilbert Gilb's <gilbsgilbert@gmail.com>",
+  "author": "Guilherme Eduardo <guiedugt@gmail.com>",
   "license": "MIT",
   "main": "./index.js",
   "module": "./es/index.js",
